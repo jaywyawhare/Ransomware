@@ -37,3 +37,7 @@ This project is a Java-based ransomware that features cross-platform compatibili
 - Text box for entering the key for decrypting the file
 ![](Image/Input.png)
 
+
+# DISCLAIMER
+- The project is for educational purposes only. The author is not responsible for any misuse of the project.
+- Owner of the project will not be personally liable for any loss or damage caused by the project.
